@@ -1,5 +1,7 @@
 # Prompt Engineering Guide
 
+
+
 This guide contains a non-exhaustive set of learning guides and tools about prompt engineering. It includes several materials, guides, examples, papers, and much more. The repo is intented to be used as a research and educational reference for practitioners and developers.
 
 Table of Contents
@@ -11,29 +13,28 @@ Table of Contents
 
 ## Papers
 
-- Surveys / Overviews:
-  - [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://arxiv.org/abs/2107.13586) 
-  - [A Taxonomy of Prompt Modifiers for Text-To-Image Generation](https://arxiv.org/abs/2204.13988)
-  - [Emergent Abilities of Large Language Models](https://arxiv.org/abs/2206.07682)
-- Applications:
-  - [Legal Prompt Engineering for Multilingual Legal Judgement Prediction](https://arxiv.org/abs/2212.02199)
-  - [Investigating Prompt Engineering in Diffusion Models](https://arxiv.org/abs/2211.15462)
-  - [Conversing with Copilot: Exploring Prompt Engineering for Solving CS1 Problems Using Natural Language](https://arxiv.org/abs/2210.15157)
-  - [Piloting Copilot and Codex: Hot Temperature, Cold Prompts, or Black Magic?](https://arxiv.org/abs/2210.14699)
-- Approaches/Techniques:
-  - [Ask Me Anything: A simple strategy for prompting language models](https://paperswithcode.com/paper/ask-me-anything-a-simple-strategy-for)
-  - [Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity](https://arxiv.org/abs/2104.08786)
-  - [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980)
-  - [Large Language Models Are Human-Level Prompt Engineers](https://sites.google.com/view/automatic-prompt-engineer?pli=1)
-  - [Structured Prompting: Scaling In-Context Learning to 1,000 Examples](https://arxiv.org/abs/2212.06713)
-  - [Reframing Instructional Prompts to GPTk's Language](https://arxiv.org/abs/2109.07830)
-  - [Promptagator: Few-shot Dense Retrieval From 8 Examples](https://arxiv.org/abs/2209.11755)
-  - [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://www.arxiv-vanity.com/papers/2102.07350/)
-  - [PromptChainer: Chaining Large Language Model Prompts through Visual Programming](https://arxiv.org/abs/2203.06566)
-- Collections:
+- **Surveys / Overviews:**
+  - Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing | [pdf](files/Pre-train%2C%20Prompt%2C%20and%20Predict%20A%20Systematic%20Survey%20of%20Prompting%20Methods%20in%20Natural%20Language%20Processing.2107.13586.pdf) | [arxiv](https://arxiv.org/abs/2107.13586) 
+  - A Taxonomy of Prompt Modifiers for Text-To-Image Generation | [pdf]() | [arxiv](https://arxiv.org/abs/2204.13988)
+  - Emergent Abilities of Large Language Models | [pdf](files/Emergent%20Abilities%20of%20Large%20Language%20Models.2206.07682.pdf) | [arxiv](https://arxiv.org/abs/2206.07682)
+- **Applications:**
+  - Legal Prompt Engineering for Multilingual Legal Judgement Prediction | [pdf](files/Legal%20Prompt%20Engineering%20for%20Multilingual%20Legal%20Judgement%20Prediction.2212.02199.pdf) | [arxiv](https://arxiv.org/abs/2212.02199)
+  - Investigating Prompt Engineering in Diffusion Models | [pdf](files/Investigating%20Prompt%20Engineering%20in%20Diffusion%20Models.2211.15462.pdf) | [arxiv](https://arxiv.org/abs/2211.15462)
+  - Conversing with Copilot: Exploring Prompt Engineering for Solving CS1 Problems Using Natural Language | [pdf](files/Conversing%20with%20Copilot%20Exploring%20Prompt%20Engineering%20for%20Solving%20CS1%20Problems%20Using%20Natural%20Language.2210.15157.pdf) | [arxiv](https://arxiv.org/abs/2210.15157)
+  - Piloting Copilot and Codex: Hot Temperature, Cold Prompts, or Black Magic? | [pdf](files/Piloting%20Copilot%20and%20Codex%20-%20Hot%20Temperature,%20Cold%20Prompts,%20or%20Black%20Magic.2210.14699.pdf) | [arxiv](https://arxiv.org/abs/2210.14699)
+- **Approaches/Techniques:**
+  - Ask Me Anything: A simple strategy for prompting language models | [pdf](files/Ask%20Me%20Anything%20-%20A%20simple%20strategy%20for%20prompting%20language%20models.2210.02441v3.pdf) | [paperswitchcode](https://paperswithcode.com/paper/ask-me-anything-a-simple-strategy-for)
+  - Fantastically Ordered Prompts and Where to Find Them: Overcoming Few-Shot Prompt Order Sensitivity | [pdf](files/Fantastically%20Ordered%20Prompts%20and%20Where%20to%20Find%20Them%20-%20Overcoming%20Few-Shot%20Prompt%20Order%20Sensitivity.2104.08786.pdf) | [arxiv](https://arxiv.org/abs/2104.08786)
+  - AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts | [pdf](files/AutoPrompt%20-%20Eliciting%20Knowledge%20from%20Language%20Models%20with%20Automatically%20Generated%20Prompts.2010.15980.pdf) | [arxiv](https://arxiv.org/abs/2010.15980)
+  - Large Language Models Are Human-Level Prompt Engineers | [pdf](files/Large%20Language%20Models%20Are%20Human-Level%20Prompt%20Engineers.2211.01910.pdf) | [www](https://sites.google.com/view/automatic-prompt-engineer?pli=1)
+  - Structured Prompting: Scaling In-Context Learning to 1,000 Examples | [pdf](files/Structured%20Prompting%20-%20Scaling%20In-Context%20Learning%20to%201,000%20Examples.2212.06713.pdf) | [arxiv](https://arxiv.org/abs/2212.06713)
+  - Reframing Instructional Prompts to GPTk's Language | [pdf](files/Reframing%20Instructional%20Prompts%20to%20GPTks%20Language.2109.07830.pdf) | [arxiv](https://arxiv.org/abs/2109.07830)
+  - Promptagator: Few-shot Dense Retrieval From 8 Examples | [pdf](files/Promptagator%20-%20Few-shot%20Dense%20Retrieval%20From%208%20Examples.2209.11755.pdf) | [arxiv](https://arxiv.org/abs/2209.11755)
+  - Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm | [pdf](files/Prompt%20Programming%20for%20Large%20Language%20Models%20-%20Beyond%20the%20Few-Shot%20Paradigm.2102.07350.pdf) | [www](https://www.arxiv-vanity.com/papers/2102.07350/)
+  - PromptChainer: Chaining Large Language Model Prompts through Visual Programming | [pdf](files/PromptChainer%20-%20Chaining%20Large%20Language%20Model%20Prompts%20through%20Visual%20Programming.2203.06566.pdf) | [arxiv](https://arxiv.org/abs/2203.06566)
+- **Other Collections:**
   - [Papers with Code](https://paperswithcode.com/task/prompt-engineering)
   - [Prompt Papers](https://github.com/thunlp/PromptPapers#papers)
-
 
 ## Tools & Libraries
 
@@ -61,7 +62,7 @@ Table of Contents
 - [Stable Diffusion Dataset](https://huggingface.co/datasets/Gustavosta/Stable-Diffusion-Prompts)
 
 ## Blog, Guides, Tutorials and Other Readings
-- [Prompt Engineering by co:here](https://docs.cohere.ai/docs/prompt-engineering)
+- Prompt Engineering by co:here | [pdf](files/articles/cohere - Prompt Engineering.pdf) | [www](https://docs.cohere.ai/docs/prompt-engineering)
 - [Prompt Engineering by Microsoft](https://microsoft.github.io/prompt-engineering/)
 - [Best practices for prompt engineering with OpenAI API](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
 - [Start with an Instruction](https://beta.openai.com/docs/quickstart/start-with-an-instruction)
